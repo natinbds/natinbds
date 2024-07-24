@@ -69,3 +69,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/awk/awk-original-wordmark.svg" width="65" heihgt="65" />                                       
 </div>
 
+<div align="center">
+  
+## Projects I think you will like
+
+"Comming soon"
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
