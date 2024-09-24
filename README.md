@@ -15,7 +15,7 @@
   🏠 I'm a current studing Computer Science on UFJ - Brazil.
    ‎‎ ‎   /  ‎ ‎ ‎🔭 Currently work on back-end with C# for web plataform.
   
-  🌱 Learning Python and Linux on these days!! <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif" width="30" height="30" alt="Learning Python">
+  🌱 currently teaching C programming to college students with my tutoring process!! 
     ‎ | ‎ 👀 Hiper-Interested on Cyper-Security🕵🏼‍♂️🪤!!
   
   💻Always looking games for moding😮🥵 ‎ | ‎ 🐎 Pronouns: he/him
