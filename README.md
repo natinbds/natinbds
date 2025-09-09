@@ -13,12 +13,12 @@
 <div align="center">
 
   🏠 I'm a current studing Computer Science on UFJ - Brazil.
-   ‎‎ ‎   /  ‎ ‎ ‎🔭 Currently work on back-end with C# for web plataform.
+   ‎‎ ‎   /  ‎ ‎ ‎🔭 Currently teacher for 'Aprenda Cursos - Jataí'.
   
-  🌱 currently teaching C programming to college students with my tutoring process!! 
-    ‎ | ‎ 👀 Hiper-Interested on Cyper-Security🕵🏼‍♂️🪤!!
+  🌱 currently teaching 3D games development into my internship!! 
+    ‎ | ‎ 🗃️ Working with a undergraduate research with History Course - UFJ 🕵🏼‍♂!
   
-  💻Always looking games for moding😮🥵 ‎ | ‎ 🐎 Pronouns: he/him
+  💻GDG Cloud Brasília Member (certifications coming soon)😮🥵 ‎ | ‎ 🐎 Pronouns: he/him
   
   ⚡ Fun fact: I have a 2B tattoo ![Nier Automata GIF](https://media.tenor.com/wXTBjfz4VlQAAAAj/nier-automata.gif)
 </div>
