@@ -27,8 +27,8 @@
 <!--Here is my section of Cards of GitHub Stats, feel free to look-->
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natinbds&show_icons=true&theme=cobalt)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natinbds&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natin-3a&show_icons=true&theme=cobalt)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natin-3z&layout=compact)
 </div>
 
 <!--My programming skills part-->
